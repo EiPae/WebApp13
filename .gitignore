@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/WebApp13/bin
+/WebApp13/obj
+/WebApp13/WebApp13.csproj.user
